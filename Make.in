@@ -1,0 +1,8 @@
+# Coqc options
+-arg -nois
+-arg -indices-matter
+
+# Library name
+-R . Hoq
+
+# Coq files

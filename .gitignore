@@ -1,3 +1,7 @@
+.coq-native/
+Make
+Makefile
 *.vo
 *.glob
 *.v.d
+*.aux
